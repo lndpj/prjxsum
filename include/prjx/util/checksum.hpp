@@ -12,7 +12,6 @@ namespace prjx::checksum
 	static constexpr i64 compute_block(u8 buf[4096], u64 len, u32 shl = 0)
 	{
 		i64 ret = 0;
-
 		for(; len>=((1<<2)-1); buf+=(1<<2)-1, len-=(1<<2)-1, shl=(shl + ((1<<3)-1)) % (1<<5))
 			ret += ((i64)le32toh(*(u32*)buf & 0x00FFFFFF)) << shl;
 		if(len > 0)
