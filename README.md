@@ -43,3 +43,4 @@ b0dccc483a3accd6 *data/levels/azt-sp01/azt-sp01.bsp
 - [Forsaken OST FLAC](https://downloads.khinsider.com/game-soundtracks/album/forsaken-the-music)
 - [Forsaken 64 OST USF](https://www.zophar.net/music/nintendo-64-usf/forsaken-64)
 - [Donna DeCianni - Forsaken Model and Actress](https://www.imdb.com/name/nm1125678/)
+- [OEIS](https://oeis.org/)
