@@ -35,6 +35,7 @@ b0dccc483a3accd6 *data/levels/azt-sp01/azt-sp01.bsp
 7fbb19a1d8dabd3d *data/levels/aztec/aztec.bsp
 ```
 ## Links ##
+- [Forsaken 3DS](https://github.com/colbyshores/forsaken-3ds)
 - [Forsaken: Remastered](https://www.mobygames.com/game/111883/forsaken-remastered/)
 - [ForsakenX](https://github.com/ForsakenX)
 - [ForsakenW](https://github.com/ForsakenW)
